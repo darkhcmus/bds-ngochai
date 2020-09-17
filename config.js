@@ -51,14 +51,6 @@ module.exports = {
     'reCaptchaKeyLocal': '6LfXNjsUAAAAAOPfroYZRzkZTlhKhjTxMQWC3ykd',
     'reCaptchaKSecrectLocal': '6LfXNjsUAAAAABRRFz1eZ5Ujx85voFdBFom6bo8E',
     directions: [
-        { code: 'TB', title: "Tây Bắc", title2: "hướng Tây Bắc", priority: 0 },
-        { code: 'B', title: "Bắc", title2: "hướng Bắc", priority: 1 },
-        { code: 'DB', title: "Đông Bắc", title2: "hướng Đông Bắc", priority: 2 },
-        { code: 'D', title: "Đông", title2: "hướng Đông", priority: 3 },
-        { code: 'DN', title: "Đông Nam", title2: "hướng Đông Nam", priority: 4 },
-        { code: 'N', title: "Nam", title2: "hướng Nam", priority: 5 },
-        { code: 'TN', title: "Tây Nam", title2: "hướng Tây Nam", priority: 6 },
-        { code: 'T', title: "Tây", title2: "hướng Tây", priority: 7 },
     ]
 
 };
